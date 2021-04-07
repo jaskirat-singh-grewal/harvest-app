@@ -121,7 +121,7 @@ class App extends Component {
         {
           this.state.tractors.map((e) => { return (<TractorForm change={e => this.change(e)} num={e.num} key={e.num} />) })
         }
-        <br />
+        <br /><br /><br />
         <div className="jumbotron">
           <h3>All combines will take {this.calResult()} to havest the crop.</h3>
         </div>
