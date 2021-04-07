@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/harvest-app/static/css/main.afccc27c.chunk.css",
-    "main.js": "/harvest-app/static/js/main.613d6063.chunk.js",
-    "main.js.map": "/harvest-app/static/js/main.613d6063.chunk.js.map",
+    "main.js": "/harvest-app/static/js/main.d8b59048.chunk.js",
+    "main.js.map": "/harvest-app/static/js/main.d8b59048.chunk.js.map",
     "runtime-main.js": "/harvest-app/static/js/runtime-main.23f64312.js",
     "runtime-main.js.map": "/harvest-app/static/js/runtime-main.23f64312.js.map",
     "static/css/2.ef9168ec.chunk.css": "/harvest-app/static/css/2.ef9168ec.chunk.css",
@@ -21,6 +21,6 @@
     "static/css/2.ef9168ec.chunk.css",
     "static/js/2.3f68573e.chunk.js",
     "static/css/main.afccc27c.chunk.css",
-    "static/js/main.613d6063.chunk.js"
+    "static/js/main.d8b59048.chunk.js"
   ]
 }
