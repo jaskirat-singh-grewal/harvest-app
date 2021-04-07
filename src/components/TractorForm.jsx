@@ -16,7 +16,7 @@ class FieldForm extends Component {
     }
     render() {
         return (<div>
-            <br></br>
+            <br />
             <form>
                 <h2> Combine number: {this.props.num + 1}</h2>
                 <div className="form-group">
@@ -32,6 +32,7 @@ class FieldForm extends Component {
                     <input value={this.state.uTurnTime !== 0 ? this.state.uTurnTime : ""} onChange={e => this.change(e)} type="number" className="form-control" id="uturnTime" name="uTurnTime" num={this.props.num} placeholder="seconds" />
                 </div>
             </form>
+            <br />
         </div>
 
 
